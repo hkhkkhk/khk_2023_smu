@@ -16,7 +16,7 @@ const reference = [
   {
     author: "",
     title: "",
-    year: "15",
+    year: "",
     sourceTitle: "",
     link: "",
   },
